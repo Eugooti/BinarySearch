@@ -22,7 +22,7 @@ public class Main {
         number=scanner.nextInt();
 
         int location=search(numbers, number);
-        System.out.println(location);
+        System.out.println("location of the number is in: "+location);
 
     }
 
